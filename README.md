@@ -186,7 +186,9 @@ __Zadanie 2. Generator obietnic__
 
 Wykonaj to zadanie w plikach `2-snackbar.html` і `02-snackbar.js`. Obejrzyj film demonstracyjny generatora obietnic.
 
-<video src="https://goitlmsstorage.b-cdn.net/64d30329-b2a2-4f96-922a-f3fb3ce07a2417.mp4" preload="auto" controls="" style="width: 100%; height: auto;"></video>
+
+[![Generator obietnic](https://filedn.eu/lPq6O1K7j8DR1n7JwTuYjYz/img/warsztaty/video10b.jpg)](https://goitlmsstorage.b-cdn.net/64d30329-b2a2-4f96-922a-f3fb3ce07a2417.mp4)
+
 
 Dodaj do pliku HTML znaczniki formularza. Formularz składa się z pola wejściowego do wprowadzenia wartości opóźnienia w milisekundach, dwóch przycisków radiowych określających sposób wykonania obietnicy oraz przycisku typu `submit`, którego kliknięcie spowoduje utworzenie obietnicy.
 
