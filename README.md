@@ -39,7 +39,7 @@ __Zadanie 1. Licznik czasu__
 Wykonaj to zadanie w plikach `01-timer.html` і `01-timer.js`. Napisz skrypt timera, który odlicza czas do określonej daty. Taki licznik może być używany na blogach, w sklepach internetowych, na stronach rejestracji na wydarzenia, podczas prac technicznych itp. Obejrzyj film demonstracyjny licznika.
 
 
-<video src="https://goitlmsstorage.b-cdn.net/9be6b073-16fc-49be-a308-da36e9e1c38a16.mp4" preload="auto" controls="" style="width: 100%; height: auto;"></video>
+[![Licznik czasu](https://filedn.eu/lPq6O1K7j8DR1n7JwTuYjYz/img/warsztaty/video10.jpg)](https://goitlmsstorage.b-cdn.net/9be6b073-16fc-49be-a308-da36e9e1c38a16.mp4)
 
 
 __Elementy interfejsu__
